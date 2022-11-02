@@ -1,2 +1,3 @@
 # Powerbi
 Visualization of Sale and Customer Segment of electronics company
+https://app.powerbi.com/view?r=eyJrIjoiOWNkNDAyMTEtYmNjZS00MzRmLTk4NDAtMjFhMDM5OWEyNWM5IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D
